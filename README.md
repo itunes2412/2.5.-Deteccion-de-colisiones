@@ -1,1 +1,1 @@
-# 2.5.-Deteccion-de-colisiones
+2.6. El flujo de la interfaz
